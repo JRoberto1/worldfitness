@@ -149,7 +149,7 @@ header nav ul li a:hover {
 /* Seção Hero */
 #hero {
   position: relative;
-  background-image: url("imagens/topo1.PNG");
+  background-image: url("imagens/topo1.png");
   background-size: cover;
   background-position: center;
   color: var(--branco-puro);
